@@ -2,7 +2,7 @@
 Impresora 3D para el bunqueer
 
 El actual proyecto corresponde al montaje de una impresora 3D tomando como base una impresora Prusa i3 Rework de codigo abierto, se tratara de documentar el proceso de montado y configuracion, las piezas en su mayoria fueron modificadas por diferentes motivos, estas se compartiran para su uso en abierto, el proceso monteje se puede dividor en los siguientes apartados.
-<p>
+
 1	Construir el marco
 2	cortado de varillas
 3	impresion de piezas
@@ -19,8 +19,8 @@ El actual proyecto corresponde al montaje de una impresora 3D tomando como base 
 14	pruebas de extrusion
 15	pruebas con la cama caliente
 16	pruebas con la pantalla
-17	primera impresion
+17	primera impresion/n
 18	calibraciones finales
-</p>
+
 
 <IMG SRC="Bunqueenter.png">
