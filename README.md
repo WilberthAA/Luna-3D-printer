@@ -19,7 +19,7 @@ El actual proyecto corresponde al montaje de una impresora 3D tomando como base 
 14	pruebas de extrusion
 15	pruebas con la cama caliente
 16	pruebas con la pantalla
-17	primera impresion/n
+<n>17	primera impresion</n>
 18	calibraciones finales
 
 
