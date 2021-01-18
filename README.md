@@ -3,29 +3,25 @@ Impresora 3D para el bunqueer
 
 El actual proyecto corresponde al montaje de una impresora 3D tomando como base una impresora Prusa i3 Rework de codigo abierto, se tratara de documentar el proceso de montado y configuracion, las piezas en su mayoria fueron modificadas por diferentes motivos, estas se compartiran para su uso en abierto, el proceso monteje se puede dividor en los siguientes apartados.
 
-1	Construir el marco
-2	cortado de varillas
-3	impresion de piezas
-4	calibrado de motores (corriente)
-5	montaje eje X
-6	montaje del eje X y Z al marco
-7	montaje de estructura del eje Y
-8	montaje de estructura del eje Y
-9	montaje de la caja para la electronica
-10	cableado de los componentes
-11	montaje de la cama caliente
-12	montaja del extrusor
-13	calibracion de Marlin
-14	pruebas de extrusion
-15	pruebas con la cama caliente
-16	pruebas con la pantalla
-17	primera impresion
-18	calibraciones finales
-
 <ol>
-  <li>1	Construir el marco</li>
-  <li>Tea</li>
-  <li>Milk</li>
+  <li>Construir el marco</li>
+  <li>cortado de varillas</li>
+  <li>impresion de piezas</li>
+  <li>calibrado de motores (corriente)</li>
+  <li>montaje eje X</li>
+  <li>montaje del eje X y Z al marco</li>
+  <li>montaje de estructura del eje Y</li>
+  <li>montaje de estructura del eje Y</li>
+  <li>montaje de la caja para la electronica</li>
+  <li>cableado de los componentes</li>
+  <li>montaje de la cama caliente</li>
+  <li>montaja del extrusor</li>
+  <li>calibracion de Marlin</li>
+  <li>pruebas de extrusion</li>
+  <li>pruebas con la cama caliente</li>
+  <li>pruebas con la pantalla</li>
+  <li>primera impresion</li>
+  <li>calibraciones finales</li>
 </ol>
 
 
