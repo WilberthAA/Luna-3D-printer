@@ -19,8 +19,14 @@ El actual proyecto corresponde al montaje de una impresora 3D tomando como base 
 14	pruebas de extrusion
 15	pruebas con la cama caliente
 16	pruebas con la pantalla
-<n>17	primera impresion</n>
+17	primera impresion
 18	calibraciones finales
+
+<ol>
+  <li>1	Construir el marco</li>
+  <li>Tea</li>
+  <li>Milk</li>
+</ol>
 
 
 <IMG SRC="Bunqueenter.png">
