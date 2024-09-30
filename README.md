@@ -17,7 +17,7 @@ El actual proyecto corresponde al montaje de una impresora 3D tomando como base 
   <li>montaje de la cama caliente</li>
   <li>montaja del extrusor</li>
   <li>calibracion de Marlin</li>
-  <a href="github.com/WilberthAA/Luna-3D-printer/tree/master/13.%20calibracion%20de%20Marlin">link text</a>
+  <a href="github.com/WilberthAA/Luna-3D-printer/blob/master/README.md">link text</a>
   <li>pruebas de extrusion</li>
   <li>pruebas con la cama caliente</li>
   <li>pruebas con la pantalla</li>
